@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2015-04-10T21:52:51Z</meta>
+		<meta property="dcterms:modified">2015-05-12T05:34:09Z</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
 		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
@@ -34,6 +34,7 @@
 		<dc:source>https://archive.org/stream/adventuresalices00carrrich</dc:source>
 		<meta property="se:word-count">27384</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland</meta>
 		<dc:creator id="author">Lewis Carroll</dc:creator>
 		<meta property="file-as" refines="#author">Carroll, Lewis</meta>
 		<meta property="se:url.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Lewis_Carroll</meta>
