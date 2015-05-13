@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:93.57;font-family:Sans" x="141.66" y="128.6">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="141.66" y="128.6">ALICE’S ADVENTURES</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:93.57;font-family:Sans;font-weight:normal" x="243.48" y="228.6">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="243.48" y="228.6">IN WONDERLAND</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:70.18;font-family:Sans;font-weight:normal" x="372.71" y="388.95">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="372.71" y="388.95">LEWIS CARROLL</tspan>
-	</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">ALICE’S ADVENTURES</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="230">IN WONDERLAND</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="390">LEWIS CARROLL</text>
 </svg>
