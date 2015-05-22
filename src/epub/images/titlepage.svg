@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:se="https://standardebooks.org/vocab/1.0" version="1.1" viewBox="0 0 1400 440" se:generated-from="d3185ea01baf011979bc7c63feddb93dd9461c9f">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:se="https://standardebooks.org/vocab/1.0" version="1.1" viewBox="0 0 1400 440" se:generated-from="8a5fe52d53636025120e0ec1f856bb08b396da38">
 	<path d="m 183.95248,52.807016 -16.28071,0 L 136.51388,130 l 18.90058,0 5.70761,-15.4386 29.38011,0 5.70761,15.4386 18.90058,0 -31.15789,-77.192984 z m 0.5614,46.31579 -17.40351,0 8.60819,-22.45614 0.18713,0 8.60819,22.45614 z"/>
 	<path d="m 240.62061,52.807016 -17.59065,0 0,77.192984 44.16375,0 0,-15.4386 -26.5731,0 0,-61.754384 z"/>
 	<path d="m 298.43494,52.807016 -17.59065,0 0,77.192984 17.59065,0 0,-77.192984 z"/>
