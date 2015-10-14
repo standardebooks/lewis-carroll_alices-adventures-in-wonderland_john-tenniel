@@ -33,6 +33,21 @@ b{
 	display: none;
 }
 
+p span.i1{
+	text-indent: -1em;
+	padding-left: 2em;
+}
+
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
+}
+
+p span.i3{
+	text-indent: -1em;
+	padding-left: 4em;
+}
+
 section[epub|type~="epigraph"]{
 	margin: auto;
 }
@@ -40,20 +55,6 @@ section[epub|type~="epigraph"]{
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
-}
-
-*[epub|type~="z3998:poem"] p span.i1,
-*[epub|type~="z3998:song"] p span.i1,
-*[epub|type~="z3998:verse"] p span.i1{
-	text-indent: 0;
-}
-
-*[epub|type~="z3998:verse"] p span.i2{
-	text-indent: 1em;
-}
-
-*[epub|type~="z3998:verse"] p span.i3{
-	text-indent: 2em;
 }
 
 .address{
