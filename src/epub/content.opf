@@ -40,13 +40,13 @@
 		<meta property="file-as" refines="#author">Carroll, Lewis</meta>
 		<meta property="se:name.person.full-name" refines="#author">Charles Lutwidge Dodgson</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Lewis_Carroll</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056546.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79056546</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Ivan Ivanovich Shishkin</dc:contributor>
 		<meta property="file-as" refines="#artist">Shishkin, Ivan Ivanovich</meta>
 		<meta property="alternate-script" refines="#artist" xml:lang="ru">Ива́н Ива́нович Ши́шкин</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ivan_Shishkin</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82119235.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82119235</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Arthur DiBianca</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">DiBianca, Arthur</meta>
