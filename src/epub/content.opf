@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-06-21T02:24:51Z</meta>
-		<meta property="se:revision-number">32</meta>
+		<meta property="dcterms:modified">2016-10-31T20:11:46Z</meta>
+		<meta property="se:revision-number">33</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -26,8 +26,8 @@
 		<dc:description id="description">A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Everyone&amp;rsquo;s familiar with Lewis Carroll&amp;rsquo;s famous children&amp;rsquo;s classic and the huge influence it&amp;rsquo;s had on modern culture.  The Mad Hatter, the Duchess, the Cheshire Cat, the White Rabbit, the Caterpillar&amp;mdash;all of these strange and familiar creatures appear in &lt;i&gt;Alice&lt;/i&gt;, and the nonsensical style, memorable poems, and colorful set pieces are just as influential.&lt;/p&gt;
-			&lt;p&gt;The book was originally written as gift to Alice Liddel, the daughter of one of Carroll&amp;rsquo;s friends. Carroll had told the story to Alice during a rainy-day boat trip up a river.  It stuck in his mind, and a few years later the completed manuscript was published in 1865.  More than 150 years later, it&amp;rsquo;s just as popular as it ever was.&lt;/p&gt;
+			&lt;p&gt;Everyone’s familiar with Lewis Carroll’s famous children’s classic and the huge influence it’s had on modern culture.  The Mad Hatter, the Duchess, the Cheshire Cat, the White Rabbit, the Caterpillar—all of these strange and familiar creatures appear in &lt;i&gt;Alice&lt;/i&gt;, and the nonsensical style, memorable poems, and colorful set pieces are just as influential.&lt;/p&gt;
+			&lt;p&gt;The book was originally written as gift to Alice Liddel, the daughter of one of Carroll’s friends. Carroll had told the story to Alice during a rainy-day boat trip up a river.  It stuck in his mind, and a few years later the completed manuscript was published in 1865.  More than 150 years later, it’s just as popular as it ever was.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
