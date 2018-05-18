@@ -59,3 +59,58 @@ span[epub|type~="subtitle"]{
 .address{
 	font-variant: small-caps;
 }
+
+figure{
+	margin: 1em auto;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-height: 30em;
+}
+
+figure.full-page{
+	margin: 0;
+	max-height: 100%;
+	page-break-before: always;
+	page-break-after: always;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
+figure.page-width img{
+	display: block;
+	margin: auto;
+	max-width: 90%;
+}
+
+figure.half-page-left img{
+	display: block;
+	margin: auto;
+	max-width: 50%;
+	float: left;
+	padding-right: 2em;
+}
+
+figure.half-page-right img{
+	display: block;
+	margin: auto;
+	max-width: 50%;
+	float: right;
+	padding-left: 2em;
+}
+
+figure + p{
+	text-indent: 0;
+}
+
+figcaption{
+	display: none; /* set to 'none' to turn off captions */
+	font-style: italic;
+	font-size: .75em;
+	margin-top: 0.5em;
+	padding-left: 5em;
+	padding-right: 5em;
+}
