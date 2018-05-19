@@ -68,7 +68,7 @@ figure{
 figure img{
 	display: block;
 	margin: auto;
-	max-height: 30em;
+	max-height: 90%;
 }
 
 figure.full-page{
@@ -81,25 +81,11 @@ figure.full-page{
 }
 
 figure.page-width img{
-	display: block;
-	margin: auto;
 	max-width: 90%;
 }
 
-figure.half-page-left img{
-	display: block;
-	margin: auto;
+figure.half-page img{
 	max-width: 50%;
-	float: left;
-	padding-right: 2em;
-}
-
-figure.half-page-right img{
-	display: block;
-	margin: auto;
-	max-width: 50%;
-	float: right;
-	padding-left: 2em;
 }
 
 figure + p{
@@ -107,7 +93,7 @@ figure + p{
 }
 
 figcaption{
-	display: none; /* set to 'none' to turn off captions */
+	display: block; /* set to 'none' to turn off captions */
 	font-style: italic;
 	font-size: .75em;
 	margin-top: 0.5em;
