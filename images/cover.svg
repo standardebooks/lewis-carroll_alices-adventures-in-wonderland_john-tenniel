@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 1400 2100">
-	<title>The cover for the Standard Ebooks edition of Alice’s Adventures in Wonderland, by Lewis Carroll</title>
+	<title>The cover for the Standard Ebooks edition of Alice’s Adventures in Wonderland, by Lewis Carroll. Illustrated by John Tenniel</title>
 	<style type="text/css">
 		.title-box{
 			fill-opacity: .75;
@@ -13,8 +13,8 @@
 			text-anchor: middle;
 		}
 
-		.title{
-			font-size: 93.56725311px;
+		.title-small{
+			font-size: 70.17543793px;
 		}
 
 		.author{
@@ -23,7 +23,7 @@
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1775">ALICE’S ADVENTURES</text>
-	<text class="title" x="700" y="1875">IN WONDERLAND</text>
-	<text class="author" x="700" y="1975">LEWIS CARROLL</text>
+	<text class="title-small" x="700" y="1775">ALICE’S ADVENTURES</text>
+	<text class="title-small" x="700" y="1855">IN WONDERLAND</text>
+	<text class="author" x="700" y="1955">LEWIS CARROLL</text>
 </svg>

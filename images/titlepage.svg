@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 440">
-	<title>The titlepage for the Standard Ebooks edition of Alice’s Adventures in Wonderland, by Lewis Carroll</title>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
+	<title>The titlepage for the Standard Ebooks edition of Alice’s Adventures in Wonderland, by Lewis Carroll. Illustrated by John Tenniel</title>
 	<style type="text/css">
 		text{
 			font-family: League Spartan;
@@ -15,8 +15,21 @@
 		.author{
 			font-size: 70.17543793px;
 		}
+
+		.contributor-descriptor{
+			font-family: OFL Sorts Mill Goudy;
+			font-size: 42.5079689px;
+			font-style: italic;
+			letter-spacing: 0;
+		}
+
+		.contributor{
+			font-size: 46.78362656px;
+		}
 	</style>
 	<text class="title" x="700" y="130">ALICE’S ADVENTURES</text>
 	<text class="title" x="700" y="230">IN WONDERLAND</text>
 	<text class="author" x="700" y="390">LEWIS CARROLL</text>
+	<text class="contributor-descriptor" x="700" y="580">illustrated by</text>
+	<text class="contributor" x="700" y="640">JOHN TENNIEL</text>
 </svg>
