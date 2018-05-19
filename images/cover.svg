@@ -13,8 +13,8 @@
 			text-anchor: middle;
 		}
 
-		.title{
-			font-size: 93.56725311px;
+		.title-small{
+			font-size: 70.17543793px;
 		}
 
 		.author{
@@ -23,7 +23,7 @@
 	</style>
 	<image height="2100" width="1400" x="0" y="0" xlink:href="cover.jpg"/>
 	<path class="title-box" d="M 50,1620 1350,1620 1350,2050 50,2050 Z"/>
-	<text class="title" x="700" y="1775">ALICE’S ADVENTURES</text>
-	<text class="title" x="700" y="1875">IN WONDERLAND</text>
-	<text class="author" x="700" y="1975">LEWIS CARROLL</text>
+	<text class="title-small" x="700" y="1775">ALICE’S ADVENTURES</text>
+	<text class="title-small" x="700" y="1855">IN WONDERLAND</text>
+	<text class="author" x="700" y="1955">LEWIS CARROLL</text>
 </svg>
