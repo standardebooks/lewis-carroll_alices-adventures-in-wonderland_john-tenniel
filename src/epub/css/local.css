@@ -47,6 +47,21 @@ p span.i3{
 	padding-left: 4em;
 }
 
+p span.i4{
+	text-indent: -1em;
+	padding-left: 5em;
+}
+
+p span.i5{
+	text-indent: -1em;
+	padding-left: 6em;
+}
+
+p span.i6{
+	text-indent: -1em;
+	padding-left: 7em;
+}
+
 section[epub|type~="epigraph"]{
 	margin: auto;
 }
