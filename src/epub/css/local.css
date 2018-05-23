@@ -80,23 +80,10 @@ figure.full-page{
 	text-align: center;
 }
 
-figure.page-width img{
-	max-width: 90%;
-}
-
 figure.half-page img{
 	max-width: 50%;
 }
 
 figure + p{
 	text-indent: 0;
-}
-
-figcaption{
-	display: block; /* set to 'none' to turn off captions */
-	font-style: italic;
-	font-size: .75em;
-	margin-top: 0.5em;
-	padding-left: 5em;
-	padding-right: 5em;
 }
