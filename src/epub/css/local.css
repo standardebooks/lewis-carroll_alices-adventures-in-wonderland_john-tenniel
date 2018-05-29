@@ -83,7 +83,7 @@ figure{
 figure img{
 	display: block;
 	margin: auto;
-	max-height: 90%;
+	max-width: 100%;
 }
 
 figure.full-page{
