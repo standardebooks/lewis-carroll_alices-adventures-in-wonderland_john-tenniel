@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-carroll/alices-adventures-in-wonderland_john-tenniel</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">2018-09-15T00:08:45Z</meta>
-		<meta property="se:revision-number">63</meta>
+		<meta property="dcterms:modified">2018-11-20T23:24:30Z</meta>
+		<meta property="se:revision-number">64</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,7 +47,7 @@
 		<meta property="se:word-count">27383</meta>
 		<meta property="se:reading-ease.flesch">78.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel</meta>
 		<dc:creator id="author">Lewis Carroll</dc:creator>
 		<meta property="file-as" refines="#author">Carroll, Lewis</meta>
 		<meta property="se:name.person.full-name" refines="#author">Charles Lutwidge Dodgson</meta>
