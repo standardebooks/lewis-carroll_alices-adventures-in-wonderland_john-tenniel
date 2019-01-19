@@ -62,8 +62,16 @@ span[epub|type~="subtitle"]{
 	font-weight: normal;
 }
 
-.address{
+#chapter-2 [epub|type~="z3998:verse"]{
 	font-variant: small-caps;
+}
+
+#chapter-3 [epub|type~="z3998:poem"]{
+	text-align: center;
+}
+
+#chapter-3 [epub|type~="z3998:poem"] p{
+	display: inline-block;
 }
 
 figure{
