@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">Alice's Adventures in Wonderland</dc:title>
-		<meta property="file-as" refines="#title">Alice's Adventures in Wonderland</meta>
+		<dc:title id="title">Alice’s Adventures in Wonderland</dc:title>
+		<meta property="file-as" refines="#title">Alice’s Adventures in Wonderland</meta>
 		<dc:subject id="subject-1">Fantasy</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/86015315</meta>
 		<meta property="se:subject">Childrens</meta>
