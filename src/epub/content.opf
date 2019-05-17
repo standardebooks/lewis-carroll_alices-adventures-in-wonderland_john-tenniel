@@ -26,20 +26,19 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Alice’s Adventures in Wonderland</dc:title>
 		<meta property="file-as" refines="#title">Alice’s Adventures in Wonderland</meta>
 		<dc:subject id="subject-1">Fantasy</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://lccn.loc.gov/86015315</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85047157</meta>
 		<meta property="se:subject">Childrens</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Everyone’s familiar with Lewis Carroll’s famous children’s classic and the huge influence it’s had on modern culture. The Mad Hatter, the Duchess, the Cheshire Cat, the White Rabbit, the Caterpillar—all of these strange and familiar creatures appear in &lt;i&gt;Alice&lt;/i&gt;, and the nonsensical style, memorable poems, and colorful set pieces are just as influential.&lt;/p&gt;
 			&lt;p&gt;The book was originally written as gift to Alice Liddel, the daughter of one of Carroll’s friends. Carroll had told the story to Alice during a rainy-day boat trip up a river. It stuck in his mind, and a few years later the completed manuscript was published in 1865. More than 150 years later, it’s just as popular as it ever was.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11</dc:source>
 		<dc:source>https://archive.org/details/adventuresalices00carrrich</dc:source>
