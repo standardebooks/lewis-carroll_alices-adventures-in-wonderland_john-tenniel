@@ -57,11 +57,6 @@ p span.i6{
 	padding-left: 7em;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 #chapter-2 [epub|type~="z3998:verse"]{
 	font-variant: small-caps;
 }
