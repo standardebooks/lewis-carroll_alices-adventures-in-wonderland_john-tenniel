@@ -83,6 +83,7 @@
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/se.css" id="se.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/illustration-1.svg" id="illustration-1.svg" media-type="image/svg+xml"/>
 		<item href="images/illustration-2.svg" id="illustration-2.svg" media-type="image/svg+xml"/>
