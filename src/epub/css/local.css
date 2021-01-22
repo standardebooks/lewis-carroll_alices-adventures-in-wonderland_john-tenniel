@@ -93,10 +93,6 @@ figure.half-page img{
 	max-width: 50%;
 }
 
-figure + p{
-	text-indent: 0;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
