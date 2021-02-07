@@ -37,6 +37,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">18</meta>
+		<meta id="collection-2" property="belongs-to-collection">The BBC’s 100 greatest British novels (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">40</meta>
 		<dc:description id="description">A young girl follows a white rabbit into a strange land of poetry, humor, and whimsy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Everyone’s familiar with &lt;a href="https://standardebooks.org/ebooks/lewis-carroll"&gt;Lewis Carroll’s&lt;/a&gt; famous children’s classic and the huge influence it’s had on modern culture. The Mad Hatter, the Duchess, the Cheshire Cat, the White Rabbit, the Caterpillar—all of these strange and familiar creatures appear in &lt;i&gt;Alice&lt;/i&gt;, and the nonsensical style, memorable poems, and colorful set pieces are just as influential.&lt;/p&gt;
