@@ -70,6 +70,7 @@ p span.i6{
 }
 
 figure{
+	break-inside: avoid;
 	margin: 1em auto;
 	text-align: center;
 }
@@ -85,19 +86,18 @@ figure.full-page{
 	break-before: page;
 	break-inside: avoid;
 	margin: 0;
-	max-height: 100%;
+	max-height: 100vh;
 	text-align: center;
 }
 
-@supports(display: flex) and (max-height: 100vh){
+@supports(display: flex){
 	figure.full-page{
 		display: flex;
 		flex-direction: column;
-		max-height: 100vh;
 	}
 
 	figure.full-page img{
-		height: 100%;
+		height: 100vh;
 	}
 }
 
