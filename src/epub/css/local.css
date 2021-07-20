@@ -98,6 +98,7 @@ figure.full-page{
 
 	figure.full-page img{
 		height: 100vh;
+		object-fit: contain;
 	}
 }
 
