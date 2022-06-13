@@ -30,6 +30,9 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Alice’s Adventures in Wonderland</dc:title>
 		<meta property="file-as" refines="#title">Alice’s Adventures in Wonderland</meta>
+		<dc:title id="title-short">Alice in Wonderland</dc:title>
+		<meta property="file-as" refines="#title-short">Alice in Wonderland</meta>
+		<meta property="title-type" refines="#title-short">short</meta>
 		<dc:subject id="subject-1">Fantasy</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047157</meta>
