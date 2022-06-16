@@ -29,6 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Alice’s Adventures in Wonderland</dc:title>
+		<meta property="title-type" refines="#title">main</meta>
 		<meta property="file-as" refines="#title">Alice’s Adventures in Wonderland</meta>
 		<dc:title id="title-short">Alice in Wonderland</dc:title>
 		<meta property="file-as" refines="#title-short">Alice in Wonderland</meta>
