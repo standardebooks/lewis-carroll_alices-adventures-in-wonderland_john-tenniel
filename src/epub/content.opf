@@ -37,7 +37,7 @@
 		<dc:subject id="subject-1">Fantasy</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047157</meta>
-		<meta property="se:subject">Childrens</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
