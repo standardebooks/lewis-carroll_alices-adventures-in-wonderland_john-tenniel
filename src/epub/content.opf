@@ -54,7 +54,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/11</dc:source>
 		<dc:source>https://archive.org/details/adventuresalices00carrrich</dc:source>
 		<meta property="se:word-count">27388</meta>
-		<meta property="se:reading-ease.flesch">78.89</meta>
+		<meta property="se:reading-ease.flesch">78.99</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Alice%27s_Adventures_in_Wonderland</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-carroll_alices-adventures-in-wonderland_john-tenniel</meta>
 		<dc:creator id="author">Lewis Carroll</dc:creator>
