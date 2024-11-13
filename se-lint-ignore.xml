@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="*.xhtml">
+		<ignore>
+			<code>s-041</code>
+			<reason>Alt text is different from LoI text on purpose.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
