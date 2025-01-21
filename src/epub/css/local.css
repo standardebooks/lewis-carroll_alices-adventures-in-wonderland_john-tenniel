@@ -71,42 +71,19 @@ p span.i6{
 
 figure{
 	break-inside: avoid;
-	margin: 1em 40px;
-	text-align: center;
+	margin: 1em 2.5em;
 }
 
 figure img{
 	display: block;
 	margin: auto;
+	max-height: 100vh;
 	max-width: 100%;
 }
 
 figure.full-page{
 	break-after: page;
 	break-before: page;
-	margin: 0;
-	max-height: 100vh;
-	text-align: center;
-}
-
-@supports(display: flex){
-	figure.full-page{
-		display: flex;
-		flex-direction: column;
-	}
-
-	figure.full-page img{
-		height: 100vh;
-		object-fit: contain;
-	}
-}
-
-@supports(display: grid){
-	figure.full-page{
-		display: grid;
-		grid-template-rows: 1fr auto;
-		max-height: 100%;
-	}
 }
 
 figure.half-page img{
